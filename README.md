@@ -1,19 +1,16 @@
 ## <img src="https://raw.githubusercontent.com/KarthickRamAlagar/KarthiNexus/main/public/KR.png" alt="KR Logo" width="55"/> Hi there 👋 I'm Karthikeyan R — Frontend Architect | UI Developer
 
-🌐 **Karthick Nexus** –  [Visit KCU](https://karthi-nexus.vercel.app/RenderGate)  
- 
-
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Previously worked at **Aastra Technology**  
-- 🌱 Currently exploring **React Ecosystem**, **Animations**, and **Modern Web Architectures**
+- 🔭 Previously worked at **OneYes Infotech Solutions**  
+- 🌱 Currently exploring **React Ecosystem**, **Animations**, **Python** and **Modern Web Architectures** 
 
 ### 🌐 Social Presence
 <p>
-  <a href="https://www.linkedin.com/in/karthickeyan-ramalagar-763404370/">
+  <a href="www.linkedin.com/in/velan27">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/karthi180_9?igsh=YXdiYnlvOWxjMzE4">
+  <a href="https://www.instagram.com/_velan_27?igsh=amI0c3l4OTdtbW85">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -22,7 +19,7 @@
 ### 💻 I code in
 <p>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
@@ -51,31 +48,7 @@
 </p>
 
 
-
-### 🚀 My Projects
-
-- 🎯 **ShopZone – E-Commerce UI**  
-  🔗 [Live Demo](https://karthickramalagar.github.io/Shop-Zone/#/)  
-  💻 React.js, Tailwind CSS, Framer Motion
-
-- 🎬 **CineScope – Movie Discovery**  
-  🔗 [Live Demo](https://karthickramalagar.github.io/CineScope/)  
-  💻 React.js, TypeScript, GSAP, Supabase
-
-- 🔋 **Brainwave – Battery UI**  
-  🔗 [Live Demo](https://karthickramalagar.github.io/BrainWave/)  
-  💻 React.js, Tailwind CSS, Bento UI, Vite
-
-
-
-
-### 📊 GitHub Stats
-
-[![KarthickRamAlagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthickRamAlagar&bg_color=000000&color=4c9e86&line=8d4c9e&point=40413e&area=true&hide_border=true)](https://github.com/KarthickRamAlagar)
-
-
-
-### 🧠 Practicing JavaScript Daily
+### 🧠 Practicing JavaScript, Python Daily
 
 📘 I’m sharpening my JavaScript skills on [Exercism.org](https://exercism.org/profiles/KarthickRamAlagar)
 
