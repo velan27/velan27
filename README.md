@@ -1,9 +1,9 @@
-## <img src="https://raw.githubusercontent.com/KarthickRamAlagar/KarthiNexus/main/public/KR.png" alt="KR Logo" width="55"/> Hi there 👋 I'm Karthikeyan R — Frontend Architect | UI Developer
+## <img src="https://raw.githubusercontent.com/KarthickRamAlagar/KarthiNexus/main/public/KR.png" alt="KR Logo" width="55"/> Hi there 👋 I'm Velan J.S  — Software Tester | Product Designer
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Previously worked at **OneYes Infotech Solutions**  
-- 🌱 Currently exploring **React Ecosystem**, **Animations**, **Python** and **Modern Web Architectures** 
+- 🌱 Currently exploring **React Ecosystem**, **Animations**, **Python** and **Modern Web Architectures** ,**Software Testing** 
 
 ### 🌐 Social Presence
 <p>
