@@ -1,4 +1,4 @@
-## <img src="https://github.com/velan27/velan27/blob/main/Velan_J_S.png" alt="JS Logo" width="75" height="80"/> Hi there 👋 I'm Velan J S  — Software Tester | Product Designer
+## <img src="https://github.com/velan27/velan27/blob/main/Velan_J%20S.png" alt="JS Logo" width="75" height="80"/> Hi there 👋 I'm Velan J S  — Software Tester | Product Designer
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
